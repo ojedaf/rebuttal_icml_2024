@@ -2,6 +2,9 @@
 
 ## Results
 
-| Attempt | #1    | #2    |
-| :-----: | :---: | :---: |
+<sub>subscript</sub> 
+| Model | LLM | Acc<sub>org</sub> | Acc<sub>in</sub>   |
+| :-----: | :---: | :---: | :---: |
+
+
 | Seconds | 301   | 283   |
