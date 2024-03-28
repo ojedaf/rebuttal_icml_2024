@@ -1,6 +1,6 @@
 # Rebuttal Submission 93 ICML 2024
 
-## Results on the Inter-object Relationship Understanding
+## Results on the Inter-object Relationship Understanding Task
 
 <sup>1</sup>Random Set, <sup>2</sup>Curated Set
 
